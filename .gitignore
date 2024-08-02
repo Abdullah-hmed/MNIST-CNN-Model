@@ -1,6 +1,7 @@
 data
 data/
-
+image/
+models/
 
 __pycache__/
 *.py[cod]
